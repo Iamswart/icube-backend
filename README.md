@@ -45,6 +45,9 @@ These instructions will get you a copy of the project up and running on your loc
     DATABASE_PASSWORD='your_db_password'
     DATABASE_HOST='your_db_host'
     DATABASE_PORT='your_db_port'
+    CLIENT_ID='your_google_oauth_clientid'
+    CLIENT_SECRET_KEY='your_google_oauth_secretkey'
+    DJANGO_BASE_FRONTEND_URL='frontend_url'
 
     Replace the placeholders with your actual database configuration and Django secret key.
 
